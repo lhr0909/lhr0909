@@ -15,3 +15,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Singapore
