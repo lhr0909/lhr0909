@@ -1,8 +1,8 @@
 # Hi! 👋
 
-My name is Simon Liang and I am a software developer and a language technology enthusiast.
+My name is Simon Liang and I am an indie hacker, a digital nomad.
 
-Expertise: TypeScript, Python, Rust, Java, AWS, Serverless, Elasticsearch
+Expertise: TypeScript, Python, Swift
 
 ![Metrics](./github-metrics.svg)
 
