@@ -6,6 +6,6 @@ Expertise: TypeScript, Python, Swift
 
 ![Metrics](./github-metrics.svg)
 
-[My GitLab Profile](https://gitlab.com/lhr0909)
+<!-- [My GitLab Profile](https://gitlab.com/lhr0909)
 
-![GitLab Contributions](https://www.allgitcontributiongraph.com/justgraphit.svg?gitlab=lhr0909)
+![GitLab Contributions](https://www.allgitcontributiongraph.com/justgraphit.svg?gitlab=lhr0909) -->
