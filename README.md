@@ -1,8 +1,13 @@
 # Hi! 👋
 
-My name is Simon Liang and I am an indie hacker, a digital nomad.
+My name is Simon Liang and I am a digital nomad and an indie hacker.
 
 Expertise: TypeScript, Python, Swift
+
+I am working on:
+
+- [Captioner](https://captioner.io) is an AI subtitle generator and editor for your videos.
+- [X-late](https://x-late.x-tech.io) is a channel translation bot on Slack.
 
 ![Metrics](./github-metrics.svg)
 
