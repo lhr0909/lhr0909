@@ -6,8 +6,8 @@ Expertise: TypeScript, Python, Swift
 
 I am working on:
 
-- [Captioner](https://captioner.io/?ref=github) is an AI subtitle generator and editor for your videos.
-- [X-late](https://x-late.x-tech.io/?ref=github) is a channel translation bot on Slack.
+- Captioner is an [AI subtitle generator and editor for your videos](https://captioner.io/?ref=github).
+- X-late is a [channel translation bot on Slack](https://x-late.x-tech.io/?ref=github).
 
 ![Metrics](./github-metrics.svg)
 
